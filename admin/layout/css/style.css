@@ -1,0 +1,94 @@
+html,body {
+  height: 100%;
+}
+
+
+
+.assinatura_rodape{
+	color: white;
+}
+
+.rodape{
+	background: rgb(0,4,9);
+	background: linear-gradient(90deg, rgba(0,4,9,1) 0%, rgba(0,36,68,1) 100%);
+}
+
+.administrativa {
+    background-image: url("../images/bg_area adm.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.branco{
+    color: white;
+}
+
+.azul{
+    color: #00AFEF;
+}
+
+.blue{
+    color: #005297;
+}
+
+.backAzul{
+    background-color: #00AFEF;
+}
+
+
+.gigante{
+    font-size: 4.5rem;
+}
+
+.tamanho100{
+    width: 100%;
+}
+
+.marcapms{
+    width: 50%;
+}
+
+div#navbarNavDropdown{
+    font-family: 'Assistant', sans-serif;
+}
+
+
+a.nav-link:hover {
+    background-color: #dcdcdc;
+}
+
+a.nav-link.corEscuro{
+    color: #5d91bf!important;
+}
+
+.click{
+    cursor: pointer;
+}
+
+.rodape{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: -webkit-fill-available;
+}
+
+
+.opcoesAgendamento{
+    width: 40%;
+    margin: 1%;
+}
+
+.opcoes{
+    width: 110px;
+    margin: 1px;
+}
+
+@media only screen and (max-width: 600px) {
+  social-links {
+   display: none;
+    }
+}
+
+fieldset{
+    padding-bottom: 1%;
+}

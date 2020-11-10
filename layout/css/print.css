@@ -1,0 +1,61 @@
+.comprovante-img{
+	width: 90px;
+    display: block;
+    margin-top: 8px;
+}
+
+.not-print{
+	display: none;
+}
+
+.comprovante-dados1{
+    margin-right: 5px;
+    width: 200px;
+    color: white;
+    line-height: 0;
+    margin-top: 12px;
+    font-weight: 1000;
+}
+
+.comprovante-texto1{
+    font-size: 16px;
+    font-weight: 1000;
+}
+.comprovante-texto2{
+    font-size: 20px;
+    font-weight: 1000;
+}
+.comprovante-texto3{
+    font-size: 14px;
+    font-weight: 1000;
+}
+.comprovante-texto4{
+    font-size: 12px;
+    font-weight: 1000;
+}
+
+.comprovant-div p{
+    line-height: 1;
+    text-align: left;
+    margin: 10px;
+}
+
+.comprovante-parte1{
+    background-color: #004590;
+}
+.comprovante-parte2{
+    background-color: #BDBFC1;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.text-right{
+	text-align: right;
+}
+
+
+table {
+	border:solid 1px;
+}

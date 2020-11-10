@@ -1,0 +1,347 @@
+html,body {
+  height: 100%;
+  font-family: 'NewJuneExtraBold', sans-serif;
+}
+
+/*#logo {
+    width: fit-content;;
+    margin-left: -0.8%;
+    }*/
+
+    .assinatura_rodape{
+       color: white;
+   }
+
+   .rodape{
+       background: rgb(0,4,9);
+       background: linear-gradient(90deg, rgba(0,4,9,1) 0%, rgba(0,36,68,1) 100%);
+   }
+
+   .administrativa {
+    background-image: url("../../common/images/bg_area adm.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo {
+    height: 30%;
+    background-image: url("../../common/images/tarja_interna_com_marca.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.branco{
+    color: white;
+}
+
+.azul{
+    margin-bottom: 30px;
+    font-weight: 1000;
+    color: #004590;
+    line-height: 25px;
+}
+
+.backAzul{
+    background-color: #00AFEF;
+}
+
+
+.gigante{
+    font-size: 4.5rem;
+}
+
+.tamanho100{
+    width: 100%;
+}
+
+.marcapms{
+    width: 50%;
+}
+
+.link-index{
+    width: 260px;
+    font-weight: 1000;
+    font-size: 25px;
+    background-color: #A9ABAE;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 5px;
+}
+
+.cadastre-se{
+    height: 32px;
+    margin-bottom: 8px;
+    box-shadow: 0px 10px 0px rgba(0,0,0,0.2);
+}
+
+.link-cadastre-se{
+    font-weight: 1000;
+    color: #004590;
+    font-size: larger;
+    padding: 0.5%;
+}
+
+.input-cadastro{
+    width: 100%;
+}
+
+.label-cadastro{
+    margin-bottom: 0;
+}
+
+.button-cadastro{
+    margin-top: 10px;
+    width: 100%;
+    background-color: #00AFEF;
+    color: white;
+    font-weight: 1000;
+    border: 0;
+}
+
+.bg-login{
+	background-image: url(../../common/images/bg_1.png);
+    padding: 50px 0;
+    background-size: cover;
+    height: 93%;
+}
+
+.bg-index{
+	background-image: url(../../common/images/bg_cinza.png);
+    padding: 50px 0;
+    background-size: cover;
+    height: auto;    
+}
+
+
+.rodape{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: -webkit-fill-available;
+}
+
+.border-blue{
+    border-color: #005297;
+}
+
+.azul-padrao{
+    color: #005297;
+}
+
+.transparente{
+    background: transparent;
+}
+
+.strong{
+    font-weight: 800;
+}
+
+/*.item-local-servico{
+    margin: auto;
+    padding: 10px;
+    color: #005297;
+    width: 300px;
+    height: 60px;
+    font-weight: 1000;
+    font-size: 25px;
+    background-color: #00AFEF;
+    }*/
+
+    #simm{
+        background-color: #00AFEF!important;
+    }
+
+    #simm_mulher{
+        background-color: #007bff;
+    }
+
+    #cem{
+        background-color: #002343;
+    }
+
+    .item-local-servico {
+        margin: auto;
+        padding: 2px;
+        color: #005297;
+        width: 301px;
+        height: 33px;
+        font-weight: 1000;
+        font-size: 20px;
+        background-color: #00AFEF;
+    }
+
+    .item-local-servico-border{
+        border-top: solid #00AFEF;
+        padding: 10px;
+        border-bottom: solid #00AFEF;
+        width: 320px;
+        margin: auto;
+    }
+
+    .link-local-servico{
+        width: 100%;
+        font-weight: 1000;
+        font-size: 15px;
+        border: 0;
+        border-radius: 0;
+        margin-bottom: 5px;
+    }
+
+    .link-local-servico-cem{
+        width: 100%;
+        font-weight: 1000;
+        font-size: 15px;
+        border: 0;
+        border-radius: 0;
+        margin-bottom: 5px;
+    }
+
+    .azul-form-agendamento{
+        margin-bottom: 15px;
+        font-weight: 1000;
+        color: #004590;
+        line-height: 10px;
+    }
+
+    .input-form-agendamento{
+        height: 30px;
+        width: 100%;
+        margin-bottom: 15px;
+        text-align: center;
+        text-align-last:center;
+        background-color: #00AFEF;
+        color: white;
+        font-weight: 1000;
+    }
+
+    .agendamento-submit-buttom{
+        border: 0;
+        padding: 2px;
+        background-color: #004590;
+        width: 100%;
+        height: 30px;
+        color: white;
+        font-weight: 1000;
+    }
+
+    .comprovante-img{
+        width: 90px;
+        display: block;
+        margin-top: 8px;
+    }
+    .comprovante-dados1{
+        margin-right: 5px;
+        width: 200px;
+        color: white;
+        line-height: 0;
+        margin-top: 12px;
+        font-weight: 1000;
+    }
+
+    .comprovante-texto1{
+        font-size: 16px;
+        font-weight: 1000;
+    }
+    .comprovante-texto2{
+        font-size: 20px;
+        font-weight: 1000;
+    }
+    .comprovante-texto3{
+        font-size: 14px;
+        font-weight: 1000;
+    }
+    .comprovante-texto4{
+        font-size: 12px;
+        font-weight: 1000;
+    }
+
+    .comprovant-div p{
+        line-height: 1;
+        text-align: left;
+        margin: 10px;
+    }
+
+    .comprovante-parte1{
+        background-color: #004590;
+    }
+    .comprovante-parte2{
+        background-color: #BDBFC1;
+    }
+
+    .error-msg{
+        font-size: 14px;
+        border: 0;
+        background-color: red;
+        color: white;
+        margin-bottom: 20px;
+        font-weight: 1000;
+        border-radius: 5px;
+    }
+
+    .li-aceito-box{
+        text-align: left;
+        background-color: white;
+        font-weight: 1000;
+        padding: 10px;
+        margin-bottom: 5px;
+    }
+
+    .opcoes{
+        width: 95px;
+        margin: 1px;
+    }
+
+    .marca_pms{
+        width: 190px;
+    }
+
+    .servico_unico{
+        width: 50%;
+        margin:0 auto;
+    }
+
+    .buttom-hora{
+        background-color: #00AFEF;
+    }   
+
+    .logo_login{
+        width: 220px;
+    }  
+
+    @media only screen and (max-width: 990px) {
+        .quemsomos{
+            margin-top: 75px;
+        }
+
+        .marca_pms{
+            width: 40%;
+        }
+
+        .social-links {
+         display: none;
+     }
+     .header-section1-internas{
+        display: none;
+    }
+    .link-cadastre-se{
+        font-size: large;
+    }
+
+    .cadeado{
+        float: right;
+    }
+    .home-index{
+        float: left;
+    }
+
+} 
+
+
+.vermelho{
+    color:red;
+}
+
+.alerta-mascara{
+    margin-top: -20px;
+    font-weight: 800;
+}

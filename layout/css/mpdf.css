@@ -1,0 +1,43 @@
+.comprovante-img{
+    width: 90px;
+    display: block;
+    margin-top: 8px;
+}
+.comprovante-dados1{
+    width: 205px;
+    color: white;
+    line-height: 0;
+    margin-top: 12px;
+    font-weight: 1000;
+}
+
+.comprovante-texto1{
+    font-size: 15px;
+    font-weight: 1000;
+}
+.comprovante-texto2{
+    font-size: 20px;
+    font-weight: 1000;
+}
+.comprovante-texto3{
+    font-size: 12px;
+    font-weight: 1000;
+}
+.comprovante-texto4{
+    font-size: 10px;
+    font-weight: 1000;
+}
+
+.comprovant-div{
+    line-height: 0;
+    text-align: left;
+    margin: 10px;
+}
+
+.comprovante-parte1{
+    background-color: #004590;
+}
+.comprovante-parte2{
+    background-color: #BDBFC1;
+}
+
